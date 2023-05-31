@@ -1,0 +1,15 @@
+/*標籤名稱選擇器*/
+body{background-color:#cccc}
+/*id選擇器*/
+#idtest{text-decoration:line-through}
+/*class選擇器*/
+.a{font-weight:bold;
+        font-size:20px
+    }
+.b{width:400px;
+    padding:10px;
+    border:1px dashed blue;
+    margin-top:10px;
+    margin-bottom:10px
+}
+.c{color:red}
